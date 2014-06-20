@@ -2,7 +2,7 @@ BITBURST Technical Specifications
 ========================
 
  - Srypt proof-of-work algorithm
- - 10 second block time target
+ - 120 second block time target
  - 15000 coins, 0.0035 fixed block reward Retarget every minute
  
 Ubuntu Dependencies
